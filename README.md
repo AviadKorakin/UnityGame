@@ -1,6 +1,6 @@
 # My Unity Game
 
-Welcome to my Unity game project! Below is a preview and a link to the game trailer.
+ Below is a preview and a link to the game trailer.
 
 ---
 
@@ -10,19 +10,6 @@ Welcome to my Unity game project! Below is a preview and a link to the game trai
   </a>
 </p>
 
----
-
-## How to Play
-
-- Description of your game and how to play it.
-
-## Features
-
-- List of key features in your game.
-  
-## Installation
-
-- Steps for installing and running the game.
 
 ---
 
